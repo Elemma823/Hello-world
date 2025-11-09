@@ -1,2 +1,2 @@
-# mdp-demo-umd.edu-
+# Hello world
 A demonstration of a simple code.
